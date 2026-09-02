@@ -17,10 +17,10 @@ A Retrieval-Augmented Generation (RAG) chatbot that lets you upload PDF document
 
 | Provider | Cost | Setup |
 |----------|------|-------|
-| **Ollama** | 🟢 Free (local) | [Install Ollama](https://ollama.com) → `ollama pull llama3.1` |
-| **Groq** | 🟢 Free tier | Get key at [console.groq.com](https://console.groq.com) |
-| **OpenAI** | 🔴 Paid | API key from [platform.openai.com](https://platform.openai.com) |
-| **Anthropic** | 🔴 Paid | API key from [console.anthropic.com](https://console.anthropic.com) |
+| **Ollama** |  Free (local) | [Install Ollama](https://ollama.com) → `ollama pull llama3.1` |
+| **Groq** |  Free tier | Get key at [console.groq.com](https://console.groq.com) |
+| **OpenAI** |  Paid | API key from [platform.openai.com](https://platform.openai.com) |
+| **Anthropic** |  Paid | API key from [console.anthropic.com](https://console.anthropic.com) |
 
 ##  Architecture
 
@@ -81,7 +81,7 @@ rag-chatbot/
 
 ##  Demo
 
->  [Watch the 2-min demo on Loom](#) *(add your Loom link here)*
+>  [Watch the 2-min demo on Loom](#) *( Loom link here)*
 
 ##  Potential Improvements
 
